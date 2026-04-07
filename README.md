@@ -8,10 +8,10 @@ Therefore, after 8+ years in SaaS and ITSM, and mastering the ancient art of “
 
 I specialize in untangling chaotic workflows, making systems behave, and helping teams scale without losing their sanity (or their dashboards).
 
-- ⚙️ Tech stack: PHP, JavaScript, HTML, CSS, Python, Business Intelligence (BI)
+- ⚙️ Tech stack: PHP, JavaScript, HTML, CSS, Python, Business Intelligence (BI), REST API, Node.js
 - 🔭 I’m currently exploring new opportunities as Product Operations Analyst, Data Analyst
 - 🌱 I’m currently learning dbt, BI, Machine\Deep learning, and DevOps
-- 👯 I’m looking to collaborate on Product Operations, Data analytics, APIs & integrations, Automation, and Operational excellence.
+- 👯 I’m looking to collaborate on Product Operations, Data analytics, APIs & integrations, LLM Automation, and Operational excellence.
 - 📫 How to reach me: susanna.nebuloni@outlook.it
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: Coffee is part of my tech stack ☕
