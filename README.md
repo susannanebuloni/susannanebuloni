@@ -2,9 +2,9 @@
 `'Hello world!'` 👋
 ###
 
-Hi, I’m Susanna. Tech Support Engineer by day, data enthusiast by… also day (sleep is optional).
+Hi, I’m Susanna. By day, I’m a Customer & Tech Support Engineer; by heart, I’m a total data enthusiast. Having survived the crossfire between Product, Customer, and Tech Ops, I don’t just see tickets—I see patterns. Sleep is optional; caffeine and clean datasets are not.
 
-After 8+ years in SaaS and ITSM, I’ve mastered the ancient art of “Have you tried turning it off and on again?” and decided to level up into Data Analytics & Machine Learning.
+Therefore, after 8+ years in SaaS and ITSM, and mastering the ancient art of “Have you tried turning it off and on again?”, I decided to level up into Data Analytics & Machine Learning.
 
 I specialize in untangling chaotic workflows, making systems behave, and helping teams scale without losing their sanity (or their dashboards).
 
